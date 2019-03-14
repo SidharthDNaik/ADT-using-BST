@@ -1,0 +1,17 @@
+/*
+* Name: Sidharth Naik
+* ID: 1647945
+* Class: 12B/M
+* Date: March 11,2018
+* Description: This is the README file. Contains all the files that are being submitted
+* File Name: README
+*/
+
+Files being submitted
+1. README
+2. Makefile.java
+3. DictionaryClient.java
+4. DictionaryInterface.java
+5. Dictionary.java
+6. DuplicateKeyException.java
+7. KeyNotFoundException.java
